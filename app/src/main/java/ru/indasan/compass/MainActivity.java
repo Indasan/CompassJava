@@ -11,7 +11,7 @@ import android.view.animation.Animation;
 import android.view.animation.RotateAnimation;
 import android.widget.ImageView;
 import android.widget.TextView;
-
+//Ver 1.0
 public class MainActivity extends AppCompatActivity implements SensorEventListener {
     private TextView tvDegree;
     private ImageView ivDynamic;
